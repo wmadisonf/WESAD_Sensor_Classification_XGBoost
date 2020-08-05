@@ -20,7 +20,7 @@ Test models run were to determine how well some individual features or combinati
 ## Methods 
 The starting notebook, WESAD_S16_XGBoost_Base, is somewhat busy.  Some of the model runs are comparisons to the base model.  Additional scoring included AUC scores and balanced accuracy, but only in this notebook and not in subsequent notebooks.  Some of the explorations are not necessary but are nice to check out anyway.  It is important for this type of data, however, to look at the series plots to grasp what is occurring and to help with discovery.  Wrist sensors also found in the chest device included an accelerometer, electrodermal activity, and skin temperature. The model accEdaTemp selected from the chest device features resolved the problem of determining presumed wrist performance regarding stress.  In this case, the model accEdaTemp evolved from close examination of the plots shown in Figure 1. 
 ## Figure 1
-![](Images/series_plots_example.png) 
+<img src="https://github.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/blob/master/Images/series_plots_example.png" width="480" height="512" title="series plot">
 
 ## XGBoost 
 XGBoost is an ensemble of gradient boosted decision trees that performs correlation filtering, automatically reduces the feature set, and is unaffected by outliers (Chen, et al., 2018).    XGBoost is probability-based and unaffected by scale factors, therefore requires no preprocessing such as normalization, standardization, or noise removal.  An advantage to using XGBoost when compared to other algorithms that rely on CPU usage is that it can use a GPU for multithreading parallel computing thereby reducing model run times (Chen, et al., 2018).  
