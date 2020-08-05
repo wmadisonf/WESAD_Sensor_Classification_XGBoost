@@ -20,6 +20,9 @@ The starting notebook, WESAD_S16_XGBoost_Base, is somewhat busy.  Some of the mo
 ![](Images/series_plots_example.png) 
 
 ## Figure 2
+![test image size](Images/series_stress_vs_baseline_example.png){:class="img-responsive"}
+![test image size](Images/series_stress_vs_baseline_example.png){:height="50%" width="50%"}
+![test image size](Images/series_stress_vs_baseline_example.png){:height="700px" width="400px"}
 ![](Images/series_stress_vs_baseline_example.png) {:height="20%" width="20%"}
 
 
