@@ -18,6 +18,7 @@ Test models run were to determine how well some individual features or combinati
 The starting notebook, WESAD_S16_XGBoost_Base, is somewhat busy.  Some of the model runs are comparisons to the base model.  Additional scoring included AUC scores and balanced accuracy, but only in this notebook and not in subsequent notebooks.  Some of the explorations are not necessary but are nice to check out anyway.  It is important for this type of data, however, to look at the series plots to grasp what is occurring and to help with discovery.  Wrist sensors also found in the chest device included an accelerometer, electrodermal activity, and skin temperature. The model accEdaTemp selected from the chest device features resolved the problem of determining presumed wrist performance regarding stress.  In this case, the model accEdaTemp evolved from close examination of the plots shown in Figures 1 & 2. 
 ## Figure 1
 ![](Images/series_plots_example.png) 
+
 ## Figure 2
 ![](Images/series_stress_vs_baseline_example.png)
 
