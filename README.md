@@ -35,7 +35,7 @@ The initial intent was to use the macro average because of high class imbalance.
 Changes to the default parameters included changing the objective to softmax for a multiclass model, tree method from ‘hist’ to 'gpu_hist' to make use of the GPU, applying gradient-based to 0.1 for subsampling, and gamma from a default of 0 to 3 to make slightly more conservative.  The evaluation metric used to create the plot, Figure 3, was multiclass error: Train error = 0.01243 and Test error = 0.01310.  Model plot showed excellent performance with no overfitting detected resulting in an f1 accuracy (average) score of 0.9869.  
 ## Figure 3
 ![](Images/merror_plot.png) 
-<img src="Images/merror_plot.pn" width="20" />
+![]<img src="Images/merror_plot.pn" width="20" />
 ## References
 The American Institute of Stress. (2020). What is stress? Retrieved from https://www.stress.org/daily-life
 
