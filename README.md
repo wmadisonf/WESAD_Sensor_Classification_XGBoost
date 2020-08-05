@@ -33,6 +33,16 @@ The initial intent was to use the macro average because of high class imbalance.
 
 
 
+## References
+The American Institute of Stress. (2020). What is stress? Retrieved from https://www.stress.org/daily-life
+
+Chen, M, et al. (2018). XGBoost-based algorithm interpretation and application on post-fault transient stability status prediction of power system. Retrieved from https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8620201
+
+Doolittle, M. J. (2019). Stress and cancer: An overview. Retrieved from https://med.stanford.edu/survivingcancer/cancer-and-stress/stress-and-cancer.html
+
+Schmidt, P., et al. (2018a).  Introducing WESAD, a multimodal dataset for Wearable Stress and Affect Detection. Retrieved from https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29.  
+
+Schmidt, P., et al. (2018b). Introducing WESAD: A multimodal dataset for wearable stress and affect detection. Retrieved from https://www.eti.uni-siegen.de/ubicomp/papers/ubi_icmi2018.pdf 
 
 
 
