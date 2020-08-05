@@ -19,6 +19,9 @@ The starting notebook, WESAD_S16_XGBoost_Base, is somewhat busy.  Some of the mo
 ## Figure 1
 ![](Images/series_plots_example.png) 
 
+## XGBoost 
+XGBoost is an ensemble of gradient boosted decision trees that performs correlation filtering, automatically reduces the feature set, and is unaffected by outliers (Chen, et al., 2018).    XGBoost is probability-based and unaffected by scale factors, therefore requires no preprocessing such as normalization, standardization, or noise removal.  An advantage to using XGBoost when compared to other algorithms that rely on CPU usage is that it can use a GPU for multithreading parallel computing thereby reducing model run times (Chen, et al., 2018).  
+An example of an automatic reduction of the feature set is apparent in the first two model runs, allChest and shortChest.  Feature importance from the allChest (all features) model showed an extremely low influence by the electromyogram attribute, Figure 2.  In the second model run, shortChest, the electromyogram attribute was left out.  However, scores for each model were essentially identical, which apparently shows that feature reduction worked.
 
 
 
