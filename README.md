@@ -40,7 +40,7 @@ Changes to the default parameters included changing the objective to softmax for
 <img src="https://github.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/blob/master/Images/merror_plot.png" width="512" height="384" title="merror">
 
 ## Analyses can be viewed at: 
-[Github](https://github.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/blob/master/WESAD_metrics_scores_analysis.ipynb) 
+[Analysis of scores](https://github.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/blob/master/WESAD_metrics_scores_analysis.ipynb) 
 
 ## References
 The American Institute of Stress. (2020). What is stress? Retrieved from https://www.stress.org/daily-life
