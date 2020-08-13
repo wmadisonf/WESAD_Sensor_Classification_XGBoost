@@ -41,16 +41,21 @@ Changes to the default parameters included changing the objective to softmax for
 [Analysis of scores](https://github.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/blob/master/WESAD_metrics_scores_analysis.ipynb) 
 
 ## References
-The American Institute of Stress. (2020). What is stress? Retrieved from https://www.stress.org/daily-life
-
 Chen, M, et al. (2018). XGBoost-based algorithm interpretation and application on post-fault transient stability status prediction of power system. Retrieved from https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8620201
 
 Doolittle, M. J. (2019). Stress and cancer: An overview. Retrieved from https://med.stanford.edu/survivingcancer/cancer-and-stress/stress-and-cancer.html
 
-Schmidt, P., et al. (2018a).  Introducing WESAD, a multimodal dataset for Wearable Stress and Affect Detection. Retrieved from https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29.  
+Ng, E. (2020).XGBoost for multi-class classification. Retrieved from https://towardsdatascience.com/xgboost-for-multi-class-classification-799d96bcd368
+Phaneuf, A. (2020). Latest trends in medical monitoring devices and wearable health technology. retrieved from https://www.businessinsider.com/wearable-technology-healthcare-medical-devices#:~:text=wearable%20healthcare%20technology%3F-,Wearable%20technology%20in%20healthcare%20includes%20electronic%20devices%20that%20consumers%20can,in%202018%2C%20according%20to%20Accenture.
 
-Schmidt, P., et al. (2018b). Introducing WESAD: A multimodal dataset for wearable stress and affect detection. Retrieved from https://www.eti.uni-siegen.de/ubicomp/papers/ubi_icmi2018.pdf 
+Plog, E. (2018). AUC ROC curve scoring function for multi-class classification. Retrieved from https://medium.com/@plog397/auc-roc-curve-scoring-function-for-multi-class-classification-9822871a6659
 
+Schmidt, P., et al. (2018a). Introducing WESAD, a multimodal dataset for Wearable Stress and Affect Detection. Retrieved from https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29.
+
+Schmidt, P., et al. (2018b). Introducing WESAD: A multimodal dataset for wearable stress and affect detection. Retrieved from https://www.eti.uni-siegen.de/ubicomp/papers/ubi_icmi2018.pdf
+
+The American Institute of Stress. (2020). What is stress? Retrieved from https://www.stress.org/daily-life
+  XGBoost (2020). XGBoost parameters. Retrieved from https://xgboost.readthedocs.io/en/latest/parameter.html
 
 
 
