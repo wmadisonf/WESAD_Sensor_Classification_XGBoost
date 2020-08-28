@@ -46,13 +46,13 @@ The models chosen performed well, effectively classifying stress.  A bit more fi
 ## Discussion
 Originally, the goal only included evaluation of the model output and did not include using data from the chest sensors as surrogate wrist data.  After some extra exploration such as the series plots and revisiting the demographics and notes, decisions made were to add the model accEdaTemp and to compare genders and to contrast comfort states.
 
-Sampling
+SAMPLING:  
 The data provided included 15 demographically limited subjects in a short duration-controlled environment.  Future, more in depth, experiments would likely need a greater number of participants reflecting a broader demographic range applied to a real-world scenario over a longer period. It is unlikely that a real-world scenario would include a chest-worn device, which was in part the reasoning to include the accelerometer, electrodermal activity, and temperature attribute combination.  Additional wrist-worn monitors could include heart rate, respiration, blood pressure, and electrocardiogram.
 
-Other Models
+OTHER MODELS:  
 A Random Forest classifier produced almost the same results as XGBoost, but it ran on the CPU only and running multiple models was not going to work if running many models many times with this size data.  An LSTM Keras model also produced a similar f1 average but not so well with predicting the minority classes. A CNN model produced the least good results. To get better results the LSTM and CNN models would have needed to be extra fine-tuned and classes reweighted because of the imbalance between classes.
 
-Applications and Ethical Considerations
+APPLICATIONS AND ETHICAL CONSIDERATIONS:  
 This type of data is useful for health and medical monitoring.  Linking the data with behavior and using the results to sell products would be, in my opinion, a likely outcome, if not already.  Wrist and microdevices, such as patches, would be capable of real time continuous streaming to an app on your device.  This could be synchronized with other smart devices such as your TV and with your web surfing behavior to build a response profile.  Heart rate, epidermal activity, and motion could be used to determine how you react to certain types of movies or TV shows, which then could be used to recommend movies and other products: What excites you and what does not and what has a calming effect.  It could also be used match you with what you read and post or tweet to learn your true leanings; for example, are you really a conservative or really a liberal, do you actually mean what you post, etc.  Of course, it is illegal to release the actual data without permission, but where there is a profit to be made there is a workaround.  This might seem a bit cynical, but governments would also be deeply invested, so I would not expect there to be much in the way of enacted control measures. This is just the tip of the iceberg.
 
 ## References
