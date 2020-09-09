@@ -1,9 +1,3 @@
-<html>
-  <head>
-    <title>A WESAD Sensor Classification using XGBoost</title>
-    <meta name="google-site-verification" content="your verification string">
-  </head>
-<body>
 
 # A WESAD Sensor Classification using XGBoost
 XGBoost classification and analysis of WESAD sensor data.
