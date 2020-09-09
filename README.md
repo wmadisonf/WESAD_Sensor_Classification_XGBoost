@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Your Page Title</title>
+    <title>A WESAD Sensor Classification using XGBoost</title>
     <meta name="google-site-verification" content="your verification string">
   </head>
 <body>
