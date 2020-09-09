@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="rcBHb03Ivkgdhn47I6I1n8waSobK-FMaWrc3QAM84Ms" />
 # A WESAD Sensor Classification using XGBoost
 XGBoost classification and analysis of WESAD sensor data.
 
@@ -72,6 +73,5 @@ Schmidt, P., et al. (2018b). Introducing WESAD: A multimodal dataset for wearabl
 The American Institute of Stress. (2020). What is stress? Retrieved from https://www.stress.org/daily-life
   XGBoost (2020). XGBoost parameters. Retrieved from https://xgboost.readthedocs.io/en/latest/parameter.html
 
-<meta name="google-site-verification" content="rcBHb03Ivkgdhn47I6I1n8waSobK-FMaWrc3QAM84Ms" />
 
-google-site-verification: googled2cf50bb5bf72082.html
+
