@@ -1,4 +1,9 @@
-<meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY" />
+<html>
+  <head>
+    <title>Your Page Title</title>
+    <meta name="google-site-verification" content="your verification string">
+  </head>
+<body>
 
 # A WESAD Sensor Classification using XGBoost
 XGBoost classification and analysis of WESAD sensor data.
