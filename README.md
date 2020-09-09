@@ -74,3 +74,4 @@ The American Institute of Stress. (2020). What is stress? Retrieved from https:/
 
 <meta name="google-site-verification" content="rcBHb03Ivkgdhn47I6I1n8waSobK-FMaWrc3QAM84Ms" />
 
+google-site-verification: googled2cf50bb5bf72082.html
