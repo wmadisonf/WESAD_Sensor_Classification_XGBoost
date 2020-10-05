@@ -23,7 +23,7 @@ The starting notebook, WESAD_S16_XGBoost_Base, is somewhat busy.  Some of the mo
 ## Figure 1a 
 <img src="https://github.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/blob/master/Images/series_plots_example.png" width="420" height="360" title="series plot">
 
-## Figure 1b
+## Figure 1b 
 <img src="https://github.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/blob/master/Images/series_stress_vs_baseline_example.png" width="420" height="360" title="series stress vs baseline">
 
 ## XGBoost 
