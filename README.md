@@ -44,7 +44,7 @@ The models chosen performed well, effectively classifying stress.  A bit more fi
 ## Analyses can be viewed at: 
 [Analysis of scores](https://github.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/blob/master/WESAD_metrics_scores_analysis.ipynb) 
 
-## Discussion
+## Discussion  
 Originally, the goal only included evaluation of the model output and did not include using data from the chest sensors as surrogate wrist data.  After some extra exploration such as the series plots and revisiting the demographics and notes, decisions made were to add the model accEdaTemp and to compare genders and to contrast comfort states.
 
 SAMPLING:  
