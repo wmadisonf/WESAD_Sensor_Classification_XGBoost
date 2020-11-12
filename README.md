@@ -15,7 +15,7 @@ This project involved using the WESAD (Wearable Stress and Affect Detection) mul
 ## Objectives 
 The focus was on the chest sensor data with the intent to build, test, and compare models and fine tune the best model or models to maximize model accuracy.  The first objective of this project was to test how well XGboost would classify (predict) stress compared to a baseline condition.  The second objective was to compare stress classification between using all chest features and using features from the chest that were equivalent to sensors found in wrist device. Although the number of subjects is too low to make any reliable analysis, analyses included stress between male and female and stress based on comfort level.  The aim, however, was to present examples of what else might be accomplished using this type of data: For example, environment conditions.  Additional goals included a greater understanding sensor data and learning more about XGBoost. 
 
-## Test Models  
+## Test Models    
 Test models run were to determine how well some individual features or combination of features would perform using the XGBoost algorithm.  The final model architecture decision occurred after many trial and error experiments and applied to all subsequent models and subjects. All model test runs were in only the WESAD_S16_XGBoost_Base notebook.  Feature (attribute) choices and model runs for remaining 5 subjects had been chosen based-on the outputs from these test runs.  Models used in subsequent notebooks for subjects S4, S8, S11, S13, and S17 included only models allChest and accEdaTemp.  The WESAD_metrics_scores_analysis notebook included statistics and stress related analyses. 
 
 ## Methods 
