@@ -71,7 +71,7 @@ Schmidt, P., et al. (2018a). Introducing WESAD, a multimodal dataset for Wearabl
 Schmidt, P., et al. (2018b). Introducing WESAD: A multimodal dataset for wearable stress and affect detection. Retrieved from https://www.eti.uni-siegen.de/ubicomp/papers/ubi_icmi2018.pdf
 
 The American Institute of Stress. (2020). What is stress? Retrieved from https://www.stress.org/daily-life
-  XGBoost (2020). XGBoost parameters. Retrieved from https://xgboost.readthedocs.io/en/latest/parameter.html
+  XGBoost (2020). XGBoost parameters. Retrieved from https://xgboost.readthedocs.io/en/latest/parameter.html  
 
         
   
