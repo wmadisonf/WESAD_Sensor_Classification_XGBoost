@@ -32,7 +32,7 @@ An example of an automatic reduction of the feature set is apparent in the first
 ## Figure 2
 ![](Images/feature_importance.png) 
 
-## Metrics 
+## Metrics  
 The initial intent was to use the macro average because of high class imbalance.  However, after excluding classes (labels) 5, 6, and 7, the high imbalance had been reduced to a point in which, for example, model allChest macro avg = 0.9845 and f1 avg = 0.9869, scores were similar enough to use the f1 average for the model assessment and f1 scores for comparisons between the baseline and stress classes.  Classes 5, 6, and 7 corresponded to short duration timed periods in which the participant answered questionnaires.  Resulting timed classes included 0, 1, 2, 3, and 4: 1 = baseline, 2 = stress, 3 = amusement, 4 = meditation, and 0 = the remaining series data.  An additional option to reduce class imbalance, had it been necessary to keep classes 5, 6, and 7, would have been to combine these three classes to create a single class.  
 
 ## Model Assessment 
