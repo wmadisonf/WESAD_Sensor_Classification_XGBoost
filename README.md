@@ -4,12 +4,12 @@ XGBoost classification and analysis of WESAD sensor data.
 
 [MyPracticumVideo](https://www.youtube.com/watch?v=WWiKt38DoPs&t=19s)           
 
-Start with WESAD_S16_XGBoost_Base_toc.ipynb      
+Start with WESAD_S16_XGBoost_Base_toc.ipynb       
   
-## Introduction  
+## Introduction   
 Stress related or induced illnesses account for 75% to 90% of doctor office visits and the annual cost to industry is about $300 billion (The American Institute of Stress, 2020).  Effects from long-term stress can produce an increased risk of physiological and psychological disorders including heart complications, diabetes, ulcers, skin problems, loss of sexual desire, changes in appetite, chronic pain, arthritis, depression, increased use of alcohol and drugs, asthma, and anxiety (The American Institute of Stress, 2020).  Emotional stress has been recognized as equally important to heart disease as other risks such as diabetes, hypertension, and smoking (Doolittle, 2019).  In addition, stress has been shown to lower the immune system response resulting in increased susceptibility to flus, colds, and other infections (Doolittle, 2019).  
     
-## Dataset 
+## Dataset  
 This project involved using the WESAD (Wearable Stress and Affect Detection) multimodal data to produce multi-class classification reports, which included extensive exploratory data analysis and some data cleaning (Schmidt, et al., 2018a).  The data source was from the UCI machine learning at https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29 (Schmidt, et al., 2018a).  Data included chest-worn and wrist-worn sensor data and scaled self-report questionnaires (Schmidt, et al., 2018a).   Data from the RespiBAN chest-worn device included sensors ECG (electrocardiogram), EDA (electrodermal activity), EMG (electromyogram), TEMP (skin temperature in Celsius), ACC (three-axis acceleration [x, y, z]), and RESP (respiration) (Schmidt, et al., 2018).  Data from the Empatica E4 wrist-worn device included sensors ACC (accelerometer channels), BVP (blood volume pulse), EDA (electrodermal activity), and TEMP (body temperature) (Schmidt, et al., 2018a).  Questionnaires PANAS, STAI, and SAM included scaled emotional responses (Schmidt, et al., 2018a).  The SSSQ questionnaire involved scaled commitment states.  The sensor data was pickle formatted and about 13GB in size.  Data included 15 subjects each in different files.  Subjects included three female and 12 male graduate students.  Row counts were greater than 3.5 million but varied greatly between subject files.  
  
 ## Objectives 
