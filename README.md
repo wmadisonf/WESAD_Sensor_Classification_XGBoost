@@ -37,7 +37,7 @@ The initial intent was to use the macro average because of high class imbalance.
 
 ## Model Assessment 
 The models chosen performed well, effectively classifying stress.  A bit more fine-tuning may have produced slightly better scores. However, a primary emphasis was to test precision and compare stress vs. baseline and to explore other factors affecting a stress state.  Changes to the default parameters included changing the objective to softmax for a multiclass model, tree method from ‘hist’ to 'gpu_hist' to make use of the GPU, applying gradient-based to 0.1 for subsampling, and gamma from a default of 0 to 3 to make slightly more conservative.  The evaluation metric used to create the plot, Figure 3, was multiclass error: Train error = 0.01243 and Test error = 0.01310.  Model plot showed excellent performance with no overfitting detected resulting in an f1 accuracy (average) score of 0.9869.  
-  
+   
 ## Figure 3  
 <img src="https://github.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/blob/master/Images/merror_plot.png" width="512" height="384" title="merror">
 
