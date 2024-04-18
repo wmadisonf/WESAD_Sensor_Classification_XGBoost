@@ -5,7 +5,7 @@ XGBoost classification and analysis of WESAD sensor data.
 [MyPracticumVideo](https://www.youtube.com/watch?v=WWiKt38DoPs&t=19s)             
 
 Start with WESAD_S16_XGBoost_Base_toc.ipynb        
-  
+   
 ## Introduction   
 Stress related or induced illnesses account for 75% to 90% of doctor office visits and the annual cost to industry is about $300 billion (The American Institute of Stress, 2020).  Effects from long-term stress can produce an increased risk of physiological and psychological disorders including heart complications, diabetes, ulcers, skin problems, loss of sexual desire, changes in appetite, chronic pain, arthritis, depression, increased use of alcohol and drugs, asthma, and anxiety (The American Institute of Stress, 2020).  Emotional stress has been recognized as equally important to heart disease as other risks such as diabetes, hypertension, and smoking (Doolittle, 2019).  In addition, stress has been shown to lower the immune system response resulting in increased susceptibility to flus, colds, and other infections (Doolittle, 2019).  
     
