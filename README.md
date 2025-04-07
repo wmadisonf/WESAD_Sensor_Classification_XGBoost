@@ -1,6 +1,6 @@
 
 # A WESAD Sensor Classification using XGBoost   
-XGBoost classification and analysis of WESAD sensor data.      
+XGBoost classification and analysis of WESAD sensor data.       
 
 [MyPracticumVideo](https://www.youtube.com/watch?v=WWiKt38DoPs&t=19s)             
 
